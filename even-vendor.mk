@@ -58,8 +58,8 @@ PRODUCT_COPY_FILES += \
     vendor/realme/even/proprietary/system_ext/lib64/vendor.mediatek.hardware.videotelephony@1.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.mediatek.hardware.videotelephony@1.0.so \
     vendor/realme/even/proprietary/vendor/lib/vendor.mediatek.hardware.videotelephony@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.mediatek.hardware.videotelephony@1.0.so \
     vendor/realme/even/proprietary/vendor/lib64/vendor.mediatek.hardware.videotelephony@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.mediatek.hardware.videotelephony@1.0.so \
-    vendor/realme/RMX2185/proprietary/product/vendor_overlay/30/lib/libdpframework.so:$(TARGET_COPY_OUT_PRODUCT)/vendor_overlay/30/lib/libdpframework.so \
-    vendor/realme/RMX2185/proprietary/product/vendor_overlay/30/lib64/libdpframework.so:$(TARGET_COPY_OUT_PRODUCT)/vendor_overlay/30/lib64/libdpframework.so
+    vendor/realme/even/proprietary/product/vendor_overlay/30/lib/libdpframework.so:$(TARGET_COPY_OUT_PRODUCT)/vendor_overlay/30/lib/libdpframework.so \
+    vendor/realme/even/proprietary/product/vendor_overlay/30/lib64/libdpframework.so:$(TARGET_COPY_OUT_PRODUCT)/vendor_overlay/30/lib64/libdpframework.so
     
 PRODUCT_PACKAGES += \
     EngineerMode \
